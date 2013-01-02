@@ -17,6 +17,7 @@ Description:
     There is currently /no/ garbage collection for dynamically created events.
 
 Homepage:            http://haskell.org/haskellwiki/Reactive-banana
+Bug-reports:         https://github.com/HeinrichApfelmus/reactive-banana/issues
 License:             BSD3
 License-file:        LICENSE
 Author:              Heinrich Apfelmus
